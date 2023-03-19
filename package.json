@@ -1,0 +1,20 @@
+{
+  "name": "hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "async": "^3.2.4",
+    "codecov": "^3.8.3",
+    "istanbul": "^0.4.5",
+    "mocha": "^10.2.0"
+  },
+  "codecov": {
+    "token": "405db501-e8e0-4fd8-9ae9-2acdb946059b"
+  }
+}
